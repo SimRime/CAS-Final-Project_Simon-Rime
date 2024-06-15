@@ -4,3 +4,4 @@ This folder contains all the notebook used in the project
 - Data_Vizualisation.ipynb     used for data vizualisation and correlation analysis
 - Substation.ipynb             used for clustering of the different customes on the network
 - PowerPlant_NN.ipynb          used for the training od different predictive model
+- NN_trained.ipynb             used for reloading results from PowerPlant_NN
