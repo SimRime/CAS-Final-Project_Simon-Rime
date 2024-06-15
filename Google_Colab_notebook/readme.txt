@@ -1,4 +1,4 @@
-This folder contains all the notebook sed in the project
+This folder contains all the notebook used in the project
 
 - Base_data_treatment.ipnynb   used to merge files,for data cleaning and feature engineering
 - Data_Vizualisation.ipynb     used for data vizualisation and correlation analysis
