@@ -12,7 +12,7 @@ from autogluon.core.metrics import make_scorer
 def custom_loss_func(y_true: np.ndarray, y_pred: np.ndarray) -> float:
     # Set fixed values for threshold and penalty weight
     threshold = 1.0
-    penalty_weight = 1.0
+    penalty_weight = 5.0
     
     # Calculate mean squared error
     mse = ((y_true - y_pred) ** 2).mean()
